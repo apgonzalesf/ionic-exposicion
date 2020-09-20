@@ -1,0 +1,7 @@
+{
+  "appId": "com.demo.ionicangular",
+  "appName": "ionic-angular-course",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "windowsAndroidStudioPath": "D:/Programas/AndroidStudio/bin/studio64.exe"
+}
